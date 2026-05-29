@@ -2935,7 +2935,7 @@
 		(uuid "e88d5f65-562f-467d-bb8e-f049196a4b0e")
 		(at 156 113.5)
 		(property "Reference" "D4"
-			(at -2.6 2.725 0)
+			(at -0.5 2 0)
 			(layer "F.SilkS")
 			(uuid "4114f03b-ed5a-43e7-ab14-aebc45c941df")
 			(effects
@@ -3558,7 +3558,7 @@
 			(width 0.1)
 			(type default)
 		)
-		(layer "F.Cu")
+		(layer "Edge.Cuts")
 		(uuid "1b26c86f-bda7-42fd-a775-549a70f5935d")
 	)
 	(gr_line
@@ -3568,7 +3568,7 @@
 			(width 0.1)
 			(type default)
 		)
-		(layer "F.Cu")
+		(layer "Edge.Cuts")
 		(uuid "6f272ab5-3337-4a99-b676-49be0221725c")
 	)
 	(gr_line
@@ -3578,7 +3578,7 @@
 			(width 0.1)
 			(type default)
 		)
-		(layer "F.Cu")
+		(layer "Edge.Cuts")
 		(uuid "ef7fbc36-c20c-4752-8560-eabf38eaf8dc")
 	)
 	(gr_line
@@ -3588,7 +3588,7 @@
 			(width 0.1)
 			(type default)
 		)
-		(layer "F.Cu")
+		(layer "Edge.Cuts")
 		(uuid "b09c1b10-8844-44c0-9803-3da807e4c330")
 	)
 	(gr_line
@@ -3598,7 +3598,7 @@
 			(width 0.1)
 			(type default)
 		)
-		(layer "F.Cu")
+		(layer "Edge.Cuts")
 		(uuid "6b6c4c85-efb4-44b6-9278-8ec62339bb6c")
 	)
 	(gr_line
@@ -3608,7 +3608,7 @@
 			(width 0.1)
 			(type default)
 		)
-		(layer "F.Cu")
+		(layer "Edge.Cuts")
 		(uuid "b2fc6b10-bded-4334-857c-a5f8ccfd242f")
 	)
 	(gr_line
@@ -3618,7 +3618,7 @@
 			(width 0.1)
 			(type default)
 		)
-		(layer "F.Cu")
+		(layer "Edge.Cuts")
 		(uuid "be4865f5-39de-4126-943f-d6ed0da4fa35")
 	)
 	(gr_line
@@ -3628,7 +3628,7 @@
 			(width 0.1)
 			(type default)
 		)
-		(layer "F.Cu")
+		(layer "Edge.Cuts")
 		(uuid "90e6e848-83f1-4b3b-8927-8191ec1b36e0")
 	)
 	(gr_line
